@@ -28,7 +28,8 @@
 - Spring Boot;
 - Hibernate;
 - Thymeleaf;
-- Vue.
+- Vue;
+- Google oAuth2.
 
 
 ## Документация
